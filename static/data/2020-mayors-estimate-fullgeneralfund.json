@@ -55,6 +55,10 @@
               "name": "Department of Aging",
               "total": 1773190
             },
+			{
+              "name": "Office of Intervention, Prevention, and Opportunity",
+              "total": 4543490
+            },
             {
               "name": "Community Relations Board",
               "total": 2241472
@@ -75,7 +79,7 @@
           ]
         },
         {
-          "name": "Infrastructure",
+          "name": "Infrastructure and Housing",
           "children": [
             {
               "name": "Office of Capital Projects",
@@ -89,6 +93,34 @@
               "name": "Non-Departmental: Streets Repair Subsidy",
               "total": 7673904
             },
+			{
+              "name": "Community Development Director's Office",
+              "total": 2207845
+            },
+            {
+              "name": "Building Standards and Appeals",
+              "total": 158991
+            },
+            {
+              "name": "City Planning Commission",
+              "total": 2372913
+            },
+            {
+              "name": "Zoning Appeals",
+              "total": 236212
+            },
+            {
+              "name": "Department of Building & Housing",
+              "total": 13959512
+            },
+            {
+              "name": "Department of Public Works - Property Management",
+              "total": 8443015
+            },
+            {
+              "name": "Department of Public Works - Parking Facilities",
+              "total": 1263091
+            },			
             {
               "name": "Department of Public Works - Division of Traffic Engineering",
               "total": 3934048
@@ -114,6 +146,18 @@
               "name": "Community Police Commission",
               "total": 2018871
             },
+			{
+              "name": "Department of Public Safety - Director's Office",
+              "total": 6748295
+            },
+			{
+              "name": "Department of Public Safety - Office of Professional Standards",
+              "total": 2018871
+            },
+            {
+              "name": "Department of Public Safety - Department of Justice",
+              "total": 4155753
+            },
             {
               "name": "Police Inspector General",
               "total": 2018871
@@ -132,20 +176,8 @@
               "total": 1218555
             },
             {
-              "name": "Building Standards and Appeals",
-              "total": 158991
-            },
-            {
-              "name": "Zoning Appeals",
-              "total": 236212
-            },
-            {
               "name": "Civil Service Commission",
               "total": 1470734
-            },
-            {
-              "name": "City Planning Commission",
-              "total": 2372913
             },
             {
               "name": "Boxing & Wrestling Commission",
@@ -154,10 +186,6 @@
             {
               "name": "Office of Equal Opportunity",
               "total": 937384
-            },
-            {
-              "name": "Office of Intervention, Prevention, and Opportunity",
-              "total": 4543490
             },
             {
               "name": "Office of Budget & Management",
@@ -174,34 +202,6 @@
             {
               "name": "Department of Finance",
               "total": 21326554
-            },
-            {
-              "name": "Department of Public Safety - Director's Office",
-              "total": 6748295
-            },
-            {
-              "name": "Department of Public Safety - Office of Professional Standards",
-              "total": 2018871
-            },
-            {
-              "name": "Department of Public Safety - Department of Justice",
-              "total": 4155753
-            },
-            {
-              "name": "Department of Public Works - Property Management",
-              "total": 8443015
-            },
-            {
-              "name": "Department of Public Works - Parking Facilities",
-              "total": 1263091
-            },
-            {
-              "name": "Community Development Director's Office",
-              "total": 2207845
-            },
-            {
-              "name": "Department of Building & Housing",
-              "total": 13959512
             },
             {
               "name": "Economic Development",
